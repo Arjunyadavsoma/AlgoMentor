@@ -66,6 +66,8 @@ This project combines **real-time guidance**, **progress tracking**, and **discu
 git clone https://github.com/Arjunyadavsoma/AlgoMentor.git
 cd AlgoMentor
 
+```bash
+
 
 👨‍💻 Author
 Soma Arjun Yadav
