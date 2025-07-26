@@ -63,8 +63,8 @@ This project combines **real-time guidance**, **progress tracking**, and **discu
 
 ### 🔧 **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/chatbot-dsa-mentor.git
-cd chatbot-dsa-mentor
+git clone https://github.com/Arjunyadavsoma/AlgoMentor.git
+cd AlgoMentor
 
 
 👨‍💻 Author
